@@ -1,0 +1,4 @@
+ltl.rkt implement a dsl to do ltl logic operation.
+
+usage:
+  require ltl.rkt in your program or load it in racket repl.
